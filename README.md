@@ -7,6 +7,12 @@
 
 - 🔭 I’m currently working on [Movie Tracker App](https://github.com/Shylan21/BackEnd-Project)
 
+- 📚 My next goal is to start learning **TypeScript and Tailwind**
+
+- 👩🏻‍💻 Also working on [Wolframe Website](https://github.com/Shylan21/Wolframe-project)
+
+- 🌤️ My live app is a [Weather App](https://tangerine-smakager-7c0701.netlify.app/)
+
 - 📫 How to reach me **isabel.tartarelli@live.it**
 
 - 📄 Know about my experiences [https://app.enhancv.com/resume/64f5ae7faa53fc8dccfd05d3](https://app.enhancv.com/resume/64f5ae7faa53fc8dccfd05d3)
