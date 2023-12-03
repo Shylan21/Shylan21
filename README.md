@@ -9,7 +9,7 @@
 
 - 📚 My next goal is to start learning **TypeScript and Tailwind**
 
-- 👩🏻‍💻 Also working on [Wolframe Website](https://github.com/Shylan21/Wolframe-project)
+- 👩🏻‍💻 Also working on our new project, **TaleTweaks**, a unique book personalisation experience.
 
 - 🌤️ My personal live app is a [Weather App](https://tangerine-smakager-7c0701.netlify.app/)
   - 🛍️ My live app at RaSaMaNoLeCa is a **[React FullStack ShopFront](https://uomo-shopfront.vercel.app/)**
