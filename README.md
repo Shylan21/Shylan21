@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shylan21" alt="shylan21" /></a> </p>
 
-- 🔭 I’m currently working on my **Portfolio** and on a FullStack App with my fellow students at **[RaSaMaNoLeCa](https://www.linkedin.com/company/rasamanoleca/)**
+- 🔭 I’m currently working on my **Portfolio** and on a FullStack App with my fellow students at **[OneDevAway](https://www.linkedin.com/company/onedevaway/)**
 
-- 📚 My next goal is to start learning **TypeScript and Tailwind**
+- 📚 My next goal is to start learning new languages.
 
 - 👩🏻‍💻 Also working on our new project, **TaleTweaks**, a unique book personalisation experience.
 
