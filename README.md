@@ -12,7 +12,7 @@
 - 👩🏻‍💻 Also working on our new project, **TaleTweaks**, a unique book personalisation experience.
 
 - 🌤️ My personal live app is a [Weather App](https://tangerine-smakager-7c0701.netlify.app/)
-  - 🛍️ My live app at RaSaMaNoLeCa is a **[React FullStack ShopFront](https://uomo-shopfront.vercel.app/)**
+  - 🛍️ My live app at OneDevAway is a **[React FullStack ShopFront](https://uomo-shopfront.vercel.app/)**
 
 - 📫 How to reach me **isabelle.tartarelli@outlook.com**
 
