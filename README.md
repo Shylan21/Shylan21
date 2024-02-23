@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shylan21" alt="shylan21" /></a> </p>
 
-- 🔭 I’m currently working on my **[Portfolio]** and on a FullStack App with my fellow students at **[OneDevAway](https://www.linkedin.com/company/onedevaway/)**
+- 🔭 I’m currently working on my **[Portfolio](https://github.com/Shylan21/Isabelle-Portfolio)** and on a FullStack App with my fellow students at **[OneDevAway](https://www.linkedin.com/company/onedevaway/)**
 
 - 📚 My next goal is to start learning new languages.
 
