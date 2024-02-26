@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://app.enhancv.com/resume/64f5ae7faa53fc8dccfd05d3](https://app.enhancv.com/resume/64f5ae7faa53fc8dccfd05d3)
 
-- ⚡ Fun fact **I'm a big nerd. I love RPG games, consoles games and board games.**
+- ⚡ Fun fact **I'm a big nerd. I love RPG games, consoles and board games. I'm also a bit of a metal head. 🤘🏼**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
