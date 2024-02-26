@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shylan21" alt="shylan21" /></a> </p>
 
-- ✨ I finally completed my very own Portfolio that you can find clicking here --> **[Portfolio](https://www.linkedin.com/company/onedevaway/)**
+- ✨ I finally completed my very own Portfolio that you can find clicking here and let me know what you think!🤘🏼✨ --> **[Portfolio](https://www.linkedin.com/company/onedevaway/)** ✨🤘🏼
 
 - 🔭 I’m currently working on a FullStack App with my fellow students at **[OneDevAway](https://www.linkedin.com/company/onedevaway/)**
 
