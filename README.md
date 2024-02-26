@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shylan21&label=Profile%20views&color=0e75b6&style=flat" alt="shylan21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shylan21" alt="shylan21" /></a> </p>
-- I finally completed my very own Portfolio that you can find clicking here --> **[Portfolio](https://isabelle-tartarelli.vercel.app/)**
+
+- ✨ I finally completed my very own Portfolio that you can find clicking here --> **[Portfolio](https://www.linkedin.com/company/onedevaway/)**
 
 - 🔭 I’m currently working on a FullStack App with my fellow students at **[OneDevAway](https://www.linkedin.com/company/onedevaway/)**
 
