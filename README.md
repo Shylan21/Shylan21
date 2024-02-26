@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a FullStack App with my fellow students at **[OneDevAway](https://www.linkedin.com/company/onedevaway/)**, **TaleTweaks**, a unique book personalisation experience.
 
-- 📚 My next goal is to start learning new languages.
+- 📚 My next goal is to start learning new languages and of course develop a **Mobile Version** for my Portfolio.
 
 - 🌤️ My personal live app is a [Weather App](https://tangerine-smakager-7c0701.netlify.app/)
   - 🛍️ My live app at OneDevAway is a **[React FullStack ShopFront](https://uomo-shopfront.vercel.app/)**
