@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shylan21" alt="shylan21" /></a> </p>
 
-- ✨ I finally completed my very own Portfolio that you can find clicking here and let me know what you think!🤘🏼✨ --> **[Portfolio](https://isabelle-tartarelli.vercel.app/)** ✨🤘🏼
+- ✨ I finally completed my very own Portfolio that you can find clicking here and let me know what you think!🤘🏼✨ **[Portfolio](https://isabelle-tartarelli.vercel.app/)** ✨🤘🏼
 
-- 🔭 I’m currently working on a FullStack App with my fellow students at **[OneDevAway](https://www.linkedin.com/company/onedevaway/)**
+- 🔭 I’m currently working on a FullStack App with my fellow students at **[OneDevAway](https://www.linkedin.com/company/onedevaway/)**, **TaleTweaks**, a unique book personalisation experience.
 
 - 📚 My next goal is to start learning new languages.
-
-- 👩🏻‍💻 Also working on our new project, **TaleTweaks**, a unique book personalisation experience.
 
 - 🌤️ My personal live app is a [Weather App](https://tangerine-smakager-7c0701.netlify.app/)
   - 🛍️ My live app at OneDevAway is a **[React FullStack ShopFront](https://uomo-shopfront.vercel.app/)**
